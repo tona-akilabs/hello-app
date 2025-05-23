@@ -13,7 +13,7 @@ spec:
         - name: gcr-json-key
       containers:
       - name: simple-app
-        image: gcr.io/develop-459306/simple-node-amd64:blue
+        image: asia.gcr.io/develop-459306/simple-node-amd64:blue
         ports:
         - containerPort: 8080
         env:
