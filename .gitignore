@@ -1,5 +1,7 @@
 .idea
 node_modules
 develop*.json
+gcr-json-key.json
 *.log
 *.lock
+.dockerconfigjson
